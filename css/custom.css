@@ -35,11 +35,25 @@ body {
 
 .services h3 {
   font-weight: bold;
+  padding-top: 35px;
+}
+
+.services p {
+    padding-left: 15px;
+    border-left: 2px solid #F4F4F4;
+}
+
+.image-group {
+  display: inline-block;
+}
+
+.fas {
+  display: inline-block;
 }
 
 i {
   color: #33C3F0;
   margin: 15px;
-  padding-top: 20px;
+  padding-top: 15px;
   border-top: 2px solid #33C3F0;
 }

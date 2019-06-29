@@ -9,11 +9,6 @@ body {
   color: #F4F4F4;
   padding-top: 50px;
   padding-bottom: 50px;
-  text-shadow:
-		-1px -1px 0 #777777,
-		1px -1px 0 #777777,
-		-1px 1px 0 #777777,
-		1px 1px 0 #777777;
 }
 
 .hero h1 {

@@ -28,7 +28,7 @@ body {
 }
 
 .services {
-  padding-top: 50px;
+  padding-top: 30px;
   background: #363636;
   color: #F4F4F4;
 }
@@ -56,4 +56,37 @@ i {
   margin: 15px;
   padding-top: 15px;
   border-top: 2px solid #33C3F0;
+}
+
+.examples {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.writing-samples-title {
+  padding-left: 30px;
+}
+
+.button-group {
+}
+
+.button-example {
+  background: #363636;
+  color: #F4F4F4;
+  width: 160px;
+}
+
+.button-example:hover {
+  color: #33C3F0;
+}
+
+.button-example:focus {
+  background: #F4F4F4;
+  color: #33C3F0;
+}
+
+.writing-samples {
+  text-align: left;
+  border-left: 1px solid #000;
+  padding: 30px;
 }

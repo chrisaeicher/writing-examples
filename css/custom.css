@@ -11,10 +11,10 @@ body {
   padding-bottom: 30px;
   font-weight: bold;
   text-shadow:
-		-.2px -.2px 0 #000,
-		.2px -.2px 0 #000,
-		-.2px .2px 0 #000,
-		.2px .2px 0 #000;
+		-.4px -.4px 0 #000,
+		.4px -.4px 0 #000,
+		-.4px .4px 0 #000,
+		.4px .4px 0 #000;
 }
 .hero h1 span {
   font-weight: normal;

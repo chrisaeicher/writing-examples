@@ -1,5 +1,6 @@
 body {
   font-family: 'Roboto Condensed', sans-serif;
+  background: #F4F4F4;
 }
 
 .hero {
@@ -81,7 +82,7 @@ i {
 .writing-samples {
   text-align: left;
   padding: 30px;
-  padding-top:60px;
+  padding-top: 60px;
 }
 
 .example-title {
@@ -109,4 +110,24 @@ a:hover {
 
 .writing-samples div p span {
   font-size: 2rem;
+}
+
+@media (max-width: 750px) {
+  #content, #copy, #SEO {
+    width:100%;
+    float: left;
+    margin-left: 4%;
+  }
+}
+
+@media (max-width: 605px) {
+  .writing-samples {
+    padding-top: 110px;
+  }
+}
+
+@media (max-width: 360px) {
+  .writing-samples {
+    padding-top: 160px;
+  }
 }

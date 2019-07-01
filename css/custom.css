@@ -66,10 +66,6 @@ i {
 .writing-samples-title {
   padding-left: 30px;
 }
-
-.button-group {
-}
-
 .button-example {
   background: #363636;
   color: #F4F4F4;
@@ -89,4 +85,5 @@ i {
   text-align: left;
   border-left: 1px solid #000;
   padding: 30px;
+  padding-top:60px;
 }

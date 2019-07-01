@@ -66,6 +66,11 @@ i {
 .writing-samples-title {
   padding-left: 30px;
 }
+
+.button-group {
+  padding-bottom: 30px;
+}
+
 .button-example {
   background: #363636;
   color: #F4F4F4;
@@ -83,7 +88,25 @@ i {
 
 .writing-samples {
   text-align: left;
-  border-left: 1px solid #000;
   padding: 30px;
   padding-top:60px;
+}
+
+a {
+  text-decoration: none;
+  color: #33C3F0;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #33C3F0;
+}
+
+.writing-samples div p {
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+.writing-samples div p span {
+  font-size: 2rem;
 }

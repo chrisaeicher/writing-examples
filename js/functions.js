@@ -30,3 +30,5 @@ keywords_button.onclick = function() {
   desc.style = "display: none;";
   article.style = "display: none;";
 }
+
+article_button.click();
